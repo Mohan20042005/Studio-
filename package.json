@@ -1,0 +1,14 @@
+{
+  "name": "studio-36-photography-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Studio 36 Photography — candid wedding, pre-wedding, coming-of-age and event photography website.",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "build": "echo \"Static site — nothing to compile. index.html is the production build.\""
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
